@@ -34,9 +34,9 @@ An AI-powered tool to help users better understand and analyze graph data.
 ---
 
 ## 📊 GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKurmiah&show_icons=true&theme=default)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex Kurmiah&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKurmiah&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex Kurmiah&layout=compact)
 
 
 ---
