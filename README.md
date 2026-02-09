@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey, I'm Alex
 
-<!--
-**AlexKurmiah/AlexKurmiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Interested in software engineering & backend development  
+🚀 Always learning and building cool things
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: Java, Python, C++, JavaScript  
+- Tools: Git, GitHub, VS Code  
+- Concepts: OOP, Data Structures, Client-Server Architecture
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Multiplayer Pac-Man (Java Client-Server Game)**  
+A networked multiplayer Pac-Man game built using Java sockets with real-time gameplay.
+
+🔹 **ClarityAI – Graph Analysis Tool (Hackathon Project)**  
+An AI-powered tool to help users better understand and analyze graph data.
+
+🔹 **More projects coming soon 👀**
+
+---
+
+## 🌱 Currently Learning
+- Backend development  
+- Databases (SQL)  
+- Networking  
+- Software design patterns  
+
+---
+
+## 📊 GitHub Stats
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: add link here  
+- Email: optional  
+
+⭐ Check out my repositories below!
